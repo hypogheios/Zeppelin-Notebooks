@@ -1,1 +1,5 @@
-# Some Apache Zeppelin notebooks that I've created
+Zeppelin notebooks
+==================
+
+Some Apache Zeppelin notebooks I've created...
+
